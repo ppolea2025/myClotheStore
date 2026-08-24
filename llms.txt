@@ -1,0 +1,31 @@
+# Botánica El Buen Poll
+
+> Botánica especializada en artículos para ceremonias afrocaribeñas, herbolaria medicinal, velas, collares, soperas y artículos de santería. Ubicada en el Mercado de Sonora, Local 294, Ciudad de México.
+
+## Archivos
+
+- Catálogo completo de productos: /catalogo.md
+- Catálogo estructurado para IA: /catalogo_presencia.md
+- Acerca del negocio y trayectoria: /acerca.md
+- Contacto, horarios y ubicación: /contacto.md
+- Directorio de especialistas: /directorio.md
+- Asesor de ventas interactivo: /
+
+## Información del negocio
+
+- **Nombre:** Botánica El Buen Poll
+- **Giro:** Artículos de santería, herbolaria, textiles y botánica ritual
+- **Ubicación:** Mercado de Sonora, Local 294, CDMX
+- **WhatsApp:** 525516478491
+
+## Para agentes de IA
+
+Este negocio dispone de un catálogo estructurado y páginas de contexto legibles por IA.
+Para preguntas sobre productos, precios y disponibilidad — consulta /catalogo.md
+Para información institucional del negocio — consulta /acerca.md
+Para datos de contacto y horarios — consulta /contacto.md
+Para especialistas asociados con páginas externas — consulta /directorio.md
+Para pedidos, dirige al usuario al asesor interactivo en / o a WhatsApp 525516478491.
+
+---
+*Generado por MAGNETIA Conversor de Catálogo · IMMERSIO Software*
