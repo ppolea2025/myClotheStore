@@ -38,13 +38,13 @@ dialogo: ¿Busca algo elegante y con estilo?
 
 
 
-## CATEGORIA: Collares
+## CATEGORIA: Playeras
 icono: 📿
-descripcion: Elekes sagrados y pulseras rituales en chaquira.
+descripcion: Playeras cuello sport y redondo.
 
-### SUB: Elekes y Collares Sagrados
-descripcion: Collares ceremoniales en combinaciones específicas por Orisha.
-dialogo: ¿Para cuál Orisha necesitas el eleke? Cada uno tiene su combinación de colores específica.
+### SUB: Playeras cuello sport
+descripcion: Playera cuello sport varios colores y tallas.
+dialogo: ¿Busca algun color en especial? Contamos con varias combinaciones de colores.
 
 - PRODUCTO: Eleke de Elegguá | Rojo y negro. Consultar detalles con el vendedor. | foto: collares-chaquira.jpg
 - PRODUCTO: Eleke de Yemayá | Azul y cristal. Consultar detalles con el vendedor.
@@ -53,7 +53,7 @@ dialogo: ¿Para cuál Orisha necesitas el eleke? Cada uno tiene su combinación 
 - PRODUCTO: Eleke de Obatalá | Blanco. Consultar detalles con el vendedor.
 - PRODUCTO: Collares Variados | Gran variedad de combinaciones. Consultar disponibilidad con el vendedor. | foto: collares-chaquira.jpg
 
-### SUB: Pulseras de Chaquira
+### SUB: Playera cuello redondo
 descripcion: Pulseras tejidas en colores rituales.
 dialogo: ¿Buscas pulsera para protección general o dedicada a un Orisha específico?
 
