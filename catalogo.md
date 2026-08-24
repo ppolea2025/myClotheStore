@@ -9,33 +9,33 @@
 # — Para marcar producto sin stock: - AGOTADO: nombre
 # — No borres las líneas que empiezan con #
 
-## CATEGORIA: Textiles
+## CATEGORIA: Chamarras
 icono: 👘
 descripcion: Prendas y accesorios para ceremonias y uso religioso.
 
-### SUB: Gorros y Aketes
-descripcion: Tocados tradicionales para uso ceremonial.
-dialogo: ¿Para qué Orisha o ceremonia necesitas el gorro?
+### SUB: Chamarra invierno
+descripcion: Chamarras para frio moda invernal.
+dialogo: ¿Que tipo de chamarra busca?
 
-- PRODUCTO: Akete Básico | Gorro litúrgico blanco, tela suave, talla única. | foto: akete-basico.jpg
-- PRODUCTO: Akete de Colores | Gorros en distintos colores según el Orisha asignado. | foto: akete-colores.jpg
-- PRODUCTO: Turbante Elaborado | Turbante multicolor con caracoles decorativos. | foto: turbante.jpg
-- PRODUCTO: Gorro Ceremonial Rojo | Gorro tejido en rojo con aplicaciones de cauris. | foto: gorro-rojo.jpg
+- PRODUCTO: Chamarra invierno | Sin Gorro, tela suave, tallas CH, MD, GDE. | foto: CHAMARRA1.jpg
+- PRODUCTO: Chamarra invierno | Sin Gorro, Colores azul, negro, |tela suave, tallas CH, MD, GDE. | foto: CHAMARRA2.jpg
+- PRODUCTO: Chamarra invierno | Sin Gorro, tela suave, tallas CH, MD, GDE. | Solo color azul elegante| foto: CHAMARRA3.jpg
 
-### SUB: Trajes y Vestidos
-descripcion: Indumentaria completa para ceremonias.
-dialogo: ¿Buscas traje para persona o vestido para figura/muñeca?
 
-- PRODUCTO: Traje Ceremonial Completo | Traje elaborado para ceremonias afrocaribeñas, incluye accesorios. | foto: traje-ceremonial.jpg
-- PRODUCTO: Vestido para Muñeca | Vestidos en colores específicos según el Orisha. Consultar colores disponibles. | foto: vestido-muneca.jpg
+### SUB: Chamarra casual
+descripcion: Chamarra para toda ocasion.
+dialogo: ¿Buscas una prenda de moda para toda ocasión?
 
-### SUB: Telas y Accesorios
-descripcion: Telas por metro y complementos textiles.
-dialogo: ¿Necesitas tela para confeccionar o una killa/fajilla ya hecha?
+- PRODUCTO: Chamarra para toda ocasión| Gran estilo confort y materiales duraderos. | foto: CHAMARRA4.jpg
+- PRODUCTO: Chamarra con gorro | Gran protección contra el frio Consultar colores disponibles. | foto: CHAMARRA5.jpg
 
-- PRODUCTO: Tela de Satín por Metro | Satín en colores rituales. Consultar colores disponibles con el vendedor.
-- PRODUCTO: Tela de Seda por Metro | Seda para ceremonias. Consultar colores.
-- PRODUCTO: Killa / Fajilla Ceremonial | Fajilla en tela bicolor. Consultar combinaciones disponibles. | foto: killa.jpg
+### SUB: Chamarra de piel 
+descripcion: Chamarra de piel varios estilos.
+dialogo: ¿Busca algo elegante y con estilo?
+
+- PRODUCTO: Chamarra piel con forro | Varios colores. Acabados finos consultar colores disponibles con el vendedor.
+- PRODUCTO: Chamarra de piel cazadora | Chamarra elegante, varios colores, tallas grandes. Mas detalles con su vendedor.
+
 
 
 ## CATEGORIA: Collares
