@@ -10,7 +10,7 @@
 # — No borres las líneas que empiezan con #
 
 ## CATEGORIA: Chamarras
-icono: 👘
+icono: 🧥​
 descripcion: Prendas y accesorios para ceremonias y uso religioso.
 
 ### SUB: Chamarra invierno
@@ -39,7 +39,7 @@ dialogo: ¿Busca algo elegante y con estilo?
 
 
 ## CATEGORIA: Playeras
-icono: 📿
+icono: ​👕​
 descripcion: Playeras cuello sport y redondo.
 
 ### SUB: Playeras cuello sport
